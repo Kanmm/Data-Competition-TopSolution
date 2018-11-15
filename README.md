@@ -107,6 +107,10 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 
 21. 第三届阿里云安全算法挑战赛   
    Rank1: https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge
+ 
+22.“新网银行杯”客户信用风险预测
+Rank4：https://github.com/TingNie/CreditForecast
+
 
 ## 二、NLP：
 
@@ -137,6 +141,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 6. “神策杯”2018高校算法大师赛(关键词提取)        
    Rank1: http://www.dcjingsai.com/common/bbs/topicDetails.html?tid=2382   
    Rank2: https://github.com/bigzhao/Keyword_Extraction   
+   Rank3：https://github.com/Rowchen/Keyword-Extraction
    Rank5: https://github.com/Dikea/ShenceCup.extract_keywords 
 
 
